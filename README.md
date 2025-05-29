@@ -32,7 +32,7 @@ This project is a web-based application that allows users to:
 
 ## 📦 Installation
 
-1. **Clone the repository**
+**Clone the repository**
 ```bash
 git clone https://github.com/Prerna2411/Youtube-Video-Transcribe-Summarizer-LLM-App.git
 cd Youtube-Video-Transcribe-Summarizer-LLM-App
