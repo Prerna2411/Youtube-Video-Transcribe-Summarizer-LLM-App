@@ -4,7 +4,7 @@ This project is a web-based application that allows users to:
 
 ✅ Transcribe YouTube videos  
 ✅ Generate concise summaries using Google's **Google Gemini Pro** language model (LLM)  
-✅ Get fast, AI-powered insights from long video content
+✅ Get fast, AI-powered insights from long video content.
 
 ---
 
